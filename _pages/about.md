@@ -125,7 +125,7 @@ Yipo Huang†, Quan Yuan†, Xiangfei Sheng, **Zhichao Yang**, Haoning Wu, Pengf
 
 # 🎖 Honors and Awards
 - *2024.06* 🏆 **Winner Award**, CVPR NTIRE 2024 DXOMARK Portrait Quality Assessment Challenge.
-- *2023.12* National Scholarship for Master Students, Xidian University.
+- *2023.12* 🏅 National Scholarship for Master Students, Xidian University.
 - *2023.09* 🏆 **Runner-up**, CGI-AIAA 2023: Artistic Image Aesthetics Assessment Challenge.
 
 # 📖 Educations

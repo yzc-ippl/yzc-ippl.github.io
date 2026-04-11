@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by <a href="https://web.xidian.edu.cn/ldli/index.html">Prof. Leida Li</a>. Prior to this, I received the B.Sc. degree from China University of Mining and Technology and M.Sc. degree from Xidian University. My research interests include visual quality assessment and T2I generation evaluation.
+I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by <a href="https://web.xidian.edu.cn/ldli/index.html">Prof. Leida Li</a>. Prior to this, I received the B.Sc. degree from China University of Mining and Technology and M.Sc. degree from Xidian University. My research interests include Visual Quality Assessment and T2I Generation Evaluation.
 
 
 # 🔥 News

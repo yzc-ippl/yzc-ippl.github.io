@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhichao Yang"
+title                    : "Zhichao Yang (杨智超)"
 description              : "Research interests: Visual quality assessment and T2I generation evaluation"
 repository               : "https://github.com/yzc-ippl/yzc-ippl.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhichao Yang"
   avatar           : "images/profile.png"
-  avatar_width     : 300
+  avatar_width     : 700
   avatar_height    : 700
   bio              : "PhD Student, Xidian University | Brave Lab"
   location         : "Xi'an, China"

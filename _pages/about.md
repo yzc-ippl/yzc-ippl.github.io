@@ -21,6 +21,7 @@ I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian U
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Two papers (PRAC, AGIDefect-4K) accepted by **ACM Multimedia 2026**. 
 - *2026.04*: &nbsp;🎉🎉 FG-IAA accepted as an **Oral presentation** at CVPR 2026.
 - *2026.03*: &nbsp;🎉🎉 One paper (AesBench) accepted by **ICME 2026**.
 - *2026.02*: &nbsp;🎉🎉 One paper (FG-IAA) accepted by **CVPR 2026**.
@@ -29,6 +30,16 @@ I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian U
 - *2024.01*: &nbsp;🎉🎉 One paper (MTCL) accepted by **IEEE Transactions on Multimedia**.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/PRAC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging](https://github.com/yzc-ippl/PRAC)
+
+ **Zhichao Yang**†, Tianjiao Gu†, Zhixianhe Zhang, Xiangfei Sheng, Pengfei Chen, Leida Li
+
+\[[Paper](https://github.com/yzc-ippl/PRAC)\] \[[Project](https://github.com/yzc-ippl/PRAC)\] \[[Code](https://github.com/yzc-ippl/PRAC)\] 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/FGAesthetics+Q.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

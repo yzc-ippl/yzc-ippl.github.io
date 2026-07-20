@@ -37,7 +37,7 @@ I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian U
 
  **Zhichao Yang**†, Tianjiao Gu†, Zhixianhe Zhang, Xiangfei Sheng, Pengfei Chen, Leida Li
 
-\[[Paper](https://github.com/yzc-ippl/PRAC)\] \[[Project](https://github.com/yzc-ippl/PRAC)\] \[[Code](https://github.com/yzc-ippl/PRAC)\] 
+\[[Paper](http://arxiv.org/abs/2607.15752)\] \[[Project](https://yzc-ippl.github.io/PRAC/)\] \[[Code](https://github.com/yzc-ippl/PRAC)\] 
 </div>
 </div>
 

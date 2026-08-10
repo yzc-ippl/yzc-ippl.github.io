@@ -21,7 +21,7 @@ I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian U
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Two papers (PRAC, AGIDefect-4K) accepted by **ACM Multimedia 2026**. 
+- *2026.07*: &nbsp;🎉🎉 Two papers (PRAC, AGIDefect-4K) accepted by **ACM Multimedia 2026**, with PRAC as an **Oral presentation**. 
 - *2026.04*: &nbsp;🎉🎉 FG-IAA accepted as an **Oral presentation** at CVPR 2026.
 - *2026.03*: &nbsp;🎉🎉 One paper (AesBench) accepted by **ICME 2026**.
 - *2026.02*: &nbsp;🎉🎉 One paper (FG-IAA) accepted by **CVPR 2026**.

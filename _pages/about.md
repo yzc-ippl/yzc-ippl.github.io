@@ -30,7 +30,7 @@ I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian U
 - *2024.01*: &nbsp;🎉🎉 One paper (MTCL) accepted by **IEEE Transactions on Multimedia**.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/PRAC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026 Oral</div><img src='images/PRAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging](https://github.com/yzc-ippl/PRAC)

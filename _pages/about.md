@@ -38,7 +38,7 @@ I am a 2rd-year Ph.D. student at the School of Artificial Intelligence, Xidian U
 
 Zhichao Yang, Feiyu Lin, Pangu Xie, Xiangfei Sheng, Pengfei Chen, Leida Li, and JinJian Wu
 
-\[[Paper](https://github.com/yzc-ippl/GraphAlign)\] \[[Code](https://github.com/yzc-ippl/GraphAlign)\] 
+\[[Paper](https://ieeexplore.ieee.org/abstract/document/11677183)\] \[[Code](https://github.com/yzc-ippl/GraphAlign)\] 
 </div>
 </div>
 
